@@ -1,0 +1,7 @@
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\bin\Debug\NetworkingEjercicio3.exe.config
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\bin\Debug\NetworkingEjercicio3.exe
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\bin\Debug\NetworkingEjercicio3.pdb
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\obj\Debug\NetworkingEjercicio3.csprojAssemblyReference.cache
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\obj\Debug\NetworkingEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\obj\Debug\NetworkingEjercicio3.exe
+C:\Users\ruchi\source\repos\NetworkingEjercicio3\NetworkingEjercicio3\obj\Debug\NetworkingEjercicio3.pdb
